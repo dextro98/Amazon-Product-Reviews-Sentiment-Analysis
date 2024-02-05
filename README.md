@@ -16,3 +16,6 @@ The Score column of this dataset contains the ratings that customers have given 
 
 According to the figure above, more than half of people rated products they bought from Amazon with 5 stars, which is good. Now, I’m going to add three more columns to this dataset as Positive, Negative, and Neutral by calculating the sentiment scores of the customer reviews mentioned in the Text column of the dataset:
 
+![Sentiment-score-code](resources/senti-score-code.png)
+
+![Senti-score-op](resources/senti-score-op.png)
