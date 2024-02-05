@@ -11,3 +11,5 @@ The dataset I’m using for the task of Amazon product reviews sentiment analysi
 The Score column of this dataset contains the ratings that customers have given to the product based on their experience with the product.
 
 ![Sentiment-code](resources/sentiment-code.png)
+
+![Sentiment-viz](resources/sentiment-viz.png)
