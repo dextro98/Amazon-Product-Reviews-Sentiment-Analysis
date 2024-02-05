@@ -19,3 +19,6 @@ According to the figure above, more than half of people rated products they boug
 ![Sentiment-score-code](resources/senti-score-code.png)
 
 ![Senti-score-op](resources/senti-score-op.png)
+
+So, most people are neutral when submitting their experiences with the products they have purchased from Amazon. So we can say that most of the reviews of the products available on Amazon are positive, as the total sentiment scores of Positive and Neural are much higher than Negative scores.
+
