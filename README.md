@@ -23,3 +23,7 @@ According to the figure above, more than half of people rated products they boug
 So, most people are neutral when submitting their experiences with the products they have purchased from Amazon. So we can say that most of the reviews of the products available on Amazon are positive, as the total sentiment scores of Positive and Neural are much higher than Negative scores.
 
 ![Sentiment](resources/Sentiment.png)
+
+## Summary
+
+So this is how we can analyze the sentiments of the product reviews at amazon. There are so many customers buying products from Amazon that today Amazon earns an average of $ 638.1 million per day. So having such a large customer base, it will turn out to be an amazing data science project if we can analyze the sentiments of Amazon product reviews.
